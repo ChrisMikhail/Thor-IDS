@@ -1,2 +1,2 @@
 # Thor
-ML Based Anomaly Intrusion Detection System
+ML Based Intrusion Detection System

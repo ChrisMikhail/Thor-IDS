@@ -1,2 +1,3 @@
-# Thor
-Anomaly-Based Intrusion Detection System
+# Thor-IDS
+
+Machine learning model for detecting anomalies in network traffic

@@ -8,4 +8,6 @@ The 6 models used in this project include: Gaussian Naive Bayes, Decision Tree, 
 
 # Results
 
-The results show that Decision Trees are best for this task when examining both time and accuracy. 
+The results show that Decision Trees are best for this task when examining speed. Useful for large systems where latency is a concern.
+
+However, best overall performance belongs to Random Forest, due its high accuracy in both training and testing.
